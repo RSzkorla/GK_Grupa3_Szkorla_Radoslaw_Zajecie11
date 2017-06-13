@@ -1,0 +1,37 @@
+﻿  GK_Zadanie_11.cpp
+d:\programowanie\gk_zadanie_11\gk_zadanie_11\gk_zadanie_11.cpp(79): warning C4838: konwersja z „double” do „GLfloat” wymaga konwersji zawężającej
+d:\programowanie\gk_zadanie_11\gk_zadanie_11\gk_zadanie_11.cpp(79): warning C4305: "inicjowanie": obcięcie z "double" do "GLfloat"
+d:\programowanie\gk_zadanie_11\gk_zadanie_11\gk_zadanie_11.cpp(81): warning C4838: konwersja z „double” do „GLfloat” wymaga konwersji zawężającej
+d:\programowanie\gk_zadanie_11\gk_zadanie_11\gk_zadanie_11.cpp(81): warning C4305: "inicjowanie": obcięcie z "double" do "GLfloat"
+d:\programowanie\gk_zadanie_11\gk_zadanie_11\gk_zadanie_11.cpp(95): warning C4838: konwersja z „double” do „GLfloat” wymaga konwersji zawężającej
+d:\programowanie\gk_zadanie_11\gk_zadanie_11\gk_zadanie_11.cpp(95): warning C4305: "inicjowanie": obcięcie z "double" do "GLfloat"
+d:\programowanie\gk_zadanie_11\gk_zadanie_11\gk_zadanie_11.cpp(97): warning C4838: konwersja z „double” do „GLfloat” wymaga konwersji zawężającej
+d:\programowanie\gk_zadanie_11\gk_zadanie_11\gk_zadanie_11.cpp(97): warning C4305: "inicjowanie": obcięcie z "double" do "GLfloat"
+d:\programowanie\gk_zadanie_11\gk_zadanie_11\gk_zadanie_11.cpp(99): warning C4838: konwersja z „double” do „GLfloat” wymaga konwersji zawężającej
+d:\programowanie\gk_zadanie_11\gk_zadanie_11\gk_zadanie_11.cpp(99): warning C4305: "inicjowanie": obcięcie z "double" do "GLfloat"
+d:\programowanie\gk_zadanie_11\gk_zadanie_11\gk_zadanie_11.cpp(101): warning C4305: "inicjowanie": obcięcie z "double" do "GLfloat"
+d:\programowanie\gk_zadanie_11\gk_zadanie_11\gk_zadanie_11.cpp(133): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+d:\programowanie\gk_zadanie_11\gk_zadanie_11\gk_zadanie_11.cpp(135): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+d:\programowanie\gk_zadanie_11\gk_zadanie_11\gk_zadanie_11.cpp(137): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+d:\programowanie\gk_zadanie_11\gk_zadanie_11\gk_zadanie_11.cpp(151): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+d:\programowanie\gk_zadanie_11\gk_zadanie_11\gk_zadanie_11.cpp(229): warning C4305: "=": obcięcie z "double" do "float"
+d:\programowanie\gk_zadanie_11\gk_zadanie_11\gk_zadanie_11.cpp(231): warning C4305: "=": obcięcie z "double" do "float"
+d:\programowanie\gk_zadanie_11\gk_zadanie_11\gk_zadanie_11.cpp(233): warning C4305: "=": obcięcie z "double" do "float"
+d:\programowanie\gk_zadanie_11\gk_zadanie_11\gk_zadanie_11.cpp(237): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+d:\programowanie\gk_zadanie_11\gk_zadanie_11\gk_zadanie_11.cpp(241): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+d:\programowanie\gk_zadanie_11\gk_zadanie_11\gk_zadanie_11.cpp(245): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+d:\programowanie\gk_zadanie_11\gk_zadanie_11\gk_zadanie_11.cpp(458): warning C4244: "+=": konwersja z "double" do "float", możliwa utrata danych
+d:\programowanie\gk_zadanie_11\gk_zadanie_11\gk_zadanie_11.cpp(460): warning C4244: "+=": konwersja z "double" do "float", możliwa utrata danych
+d:\programowanie\gk_zadanie_11\gk_zadanie_11\gk_zadanie_11.cpp(462): warning C4244: "+=": konwersja z "double" do "float", możliwa utrata danych
+d:\programowanie\gk_zadanie_11\gk_zadanie_11\gk_zadanie_11.cpp(464): warning C4305: "-=": obcięcie z "double" do "float"
+d:\programowanie\gk_zadanie_11\gk_zadanie_11\gk_zadanie_11.cpp(474): warning C4305: "-=": obcięcie z "double" do "float"
+d:\programowanie\gk_zadanie_11\gk_zadanie_11\gk_zadanie_11.cpp(484): warning C4305: "-=": obcięcie z "double" do "float"
+d:\programowanie\gk_zadanie_11\gk_zadanie_11\gk_zadanie_11.cpp(500): warning C4244: "+=": konwersja z "double" do "float", możliwa utrata danych
+d:\programowanie\gk_zadanie_11\gk_zadanie_11\gk_zadanie_11.cpp(502): warning C4244: "+=": konwersja z "double" do "float", możliwa utrata danych
+d:\programowanie\gk_zadanie_11\gk_zadanie_11\gk_zadanie_11.cpp(504): warning C4244: "+=": konwersja z "double" do "float", możliwa utrata danych
+d:\programowanie\gk_zadanie_11\gk_zadanie_11\gk_zadanie_11.cpp(518): warning C4305: "+=": obcięcie z "double" do "float"
+d:\programowanie\gk_zadanie_11\gk_zadanie_11\gk_zadanie_11.cpp(544): warning C4244: "argument": konwersja z "GLfloat" do "GLsizei", możliwa utrata danych
+d:\programowanie\gk_zadanie_11\gk_zadanie_11\gk_zadanie_11.cpp(544): warning C4244: "argument": konwersja z "double" do "GLint", możliwa utrata danych
+d:\programowanie\gk_zadanie_11\gk_zadanie_11\gk_zadanie_11.cpp(630): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  GK_Zadanie_11.vcxproj -> D:\Programowanie\GK_Zadanie_11\Debug\GK_Zadanie_11.exe
+  GK_Zadanie_11.vcxproj -> D:\Programowanie\GK_Zadanie_11\Debug\GK_Zadanie_11.pdb (Partial PDB)
